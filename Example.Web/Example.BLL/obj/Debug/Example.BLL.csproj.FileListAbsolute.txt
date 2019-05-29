@@ -1,0 +1,16 @@
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\obj\Debug\Example.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.BLL.dll.config
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.BLL.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.BLL.pdb
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.DAL.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.Model.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.DAL.pdb
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\Example.Model.pdb
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\obj\Debug\Example.BLL.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.BLL\obj\Debug\Example.BLL.pdb

@@ -1,0 +1,14 @@
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\obj\Debug\Example.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\Example.DAL.dll.config
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\Example.DAL.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\Example.DAL.pdb
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\Example.Model.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\Example.Model.pdb
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\obj\Debug\Example.DAL.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.DAL\obj\Debug\Example.DAL.pdb

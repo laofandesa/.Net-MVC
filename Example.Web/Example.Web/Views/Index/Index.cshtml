@@ -1,0 +1,16 @@
+﻿@{
+    Layout = null;
+    var model = ViewBag.FirstUser as Example.Model.SysUser;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        姓名：@(model != null ? model.UserName : "空")
+    </div>
+</body>
+</html>

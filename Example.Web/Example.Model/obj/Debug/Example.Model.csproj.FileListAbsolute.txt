@@ -1,0 +1,13 @@
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\Example.Model.dll.config
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\Example.Model.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\Example.Model.pdb
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\EntityFramework.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\EntityFramework.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\obj\Debug\Example.Model.dll
+C:\Users\Tccuser\Desktop\.Net MVC三层架构\Example.Web\Example.Model\obj\Debug\Example.Model.pdb
